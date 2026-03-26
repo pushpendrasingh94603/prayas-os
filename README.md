@@ -109,7 +109,7 @@ The OS is built using Arch Linux’s **releng profile and mkarchiso tools**.
 ### Desktop & GUI
 - XFCE4 / KDE Plasma  
 - xorg / Wayland  
-- SDDM  
+- Lightdm / SDDM  
 
 ---
 
@@ -119,8 +119,8 @@ The OS is built using Arch Linux’s **releng profile and mkarchiso tools**.
 
 | OS                  | RAM Usage |
 |---------------------|----------|
-| Custom OS (XFCE)    | ~521–599 MB |
-| Custom OS (KDE)     | ~1000–1270 MB |
+| Prayas-OS (XFCE)    | ~521–599 MB |
+| Prayas-OS (KDE)     | ~1000–1270 MB |
 | Ubuntu              | ~1229–1843 MB |
 | Windows             | ~2539–5101 MB |
 
@@ -130,8 +130,8 @@ The OS is built using Arch Linux’s **releng profile and mkarchiso tools**.
 
 | OS                  | Boot Time |
 |---------------------|----------|
-| Custom OS (XFCE)    | ~17–31 sec |
-| Custom OS (KDE)     | ~18–35 sec |
+| Prayas-OS (XFCE)    | ~17–31 sec |
+| Prayas-OS (KDE)     | ~18–35 sec |
 | Ubuntu              | ~1–2.5 min |
 | Windows             | ~44–135 sec |
 
@@ -141,8 +141,8 @@ The OS is built using Arch Linux’s **releng profile and mkarchiso tools**.
 
 | OS                  | Disk Usage |
 |---------------------|----------|
-| Custom OS (XFCE)    | ~7.8–11 GB |
-| Custom OS (KDE)     | ~10–12 GB |
+| Prayas-OS (XFCE)    | ~7.8–11 GB |
+| Prayas-OS (KDE)     | ~10–12 GB |
 | Ubuntu              | ~11–13 GB |
 | Windows             | ~55 GB |
 
